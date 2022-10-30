@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {  
+    padding-top: 70px;  
+    margin: auto;  
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+
+
+.btn {  
+    background:transparent;
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+    width: 120%;
+    text-align: center;
+}  
